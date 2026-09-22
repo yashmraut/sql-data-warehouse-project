@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-Building a modern data warehouse with MySQL, including ETL process, data modelling, and analytics.
+Building a modern data warehouse with DataBricks, including ETL process, data modelling, and analytics.
